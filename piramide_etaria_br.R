@@ -1,4 +1,6 @@
 
+# Gabriel
+
 library(openxlsx) # Abrir base de dados
 library(dplyr) # Mexer na base de dados
 library(ggplot2) # Fazer os gráficos
